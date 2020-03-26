@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "user_id": 2,
+      "first_name": "first",
+      "last_name": "last",
+      "tasks": [
+        {
+          "id": 2,
+          "title": "two",
+          "description": "desc two",
+          "created_at": "2020-03-26T07:56:13.000000Z",
+          "updated_at": "2020-03-26T07:56:15.000000Z",
+          "status_id": 1,
+          "user": 2
+        },
+        {
+          "id": 4,
+          "title": "three",
+          "description": "desc three",
+          "created_at": "2020-03-26T09:43:13.000000Z",
+          "updated_at": "2020-03-26T09:43:15.000000Z",
+          "status_id": 1,
+          "user": 2
+        }
+      ],
+      "email": "aaa@gmail.com",
+      "created_at": "2020-03-26T07:52:00.000000Z",
+      "updated_at": "2020-03-26T07:52:09.000000Z"
+    },
+    {
+      "user_id": 3,
+      "first_name": "aaaa",
+      "last_name": "bbbb",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "sss",
+          "description": "descsss",
+          "created_at": "2020-03-26T07:55:50.000000Z",
+          "updated_at": "2020-03-26T09:30:02.000000Z",
+          "status_id": 2,
+          "user": 3
+        }
+      ],
+      "email": "sss@gmail.com",
+      "created_at": "2020-03-26T08:00:23.000000Z",
+      "updated_at": "2020-03-26T08:04:55.000000Z"
+    },
+    {
+      "user_id": 5,
+      "first_name": "Fiona Hahn",
+      "last_name": "Keith Leuschke",
+      "tasks": [
+        {
+          "id": 5,
+          "title": "Mr.",
+          "description": "Dolores aliquam odit consequatur excepturi. Assumenda voluptas ullam velit voluptatem iure aut perspiciatis. Sed et reprehenderit aperiam quo ipsum magni.",
+          "created_at": "2020-03-26T10:26:48.000000Z",
+          "updated_at": "2020-03-26T10:26:48.000000Z",
+          "status_id": 2,
+          "user": 5
+        }
+      ],
+      "email": "golden.steuber@example.net",
+      "created_at": "2020-03-26T10:14:13.000000Z",
+      "updated_at": "2020-03-26T10:14:13.000000Z"
+    },
+    {
+      "user_id": 6,
+      "first_name": "Cheyenne Schamberger V",
+      "last_name": "Mr. Dusty McCullough I",
+      "tasks": [],
+      "email": "bosco.deangelo@example.net",
+      "created_at": "2020-03-26T10:14:24.000000Z",
+      "updated_at": "2020-03-26T10:14:24.000000Z"
+    },
+    {
+      "user_id": 7,
+      "first_name": "Peggie Krajcik",
+      "last_name": "Beverly Cruickshank",
+      "tasks": [],
+      "email": "vherman@example.org",
+      "created_at": "2020-03-26T10:25:00.000000Z",
+      "updated_at": "2020-03-26T10:25:00.000000Z"
+    },
+    {
+      "user_id": 8,
+      "first_name": "Marianna Auer",
+      "last_name": "Prof. Muhammad Marks",
+      "tasks": [
+        {
+          "id": 6,
+          "title": "Miss",
+          "description": "At hic fugiat ipsam dolorem. Aliquam sunt libero aspernatur nihil quia corporis.",
+          "created_at": "2020-03-26T10:27:05.000000Z",
+          "updated_at": "2020-03-26T10:27:05.000000Z",
+          "status_id": 4,
+          "user": 8
+        }
+      ],
+      "email": "armani.sawayn@example.com",
+      "created_at": "2020-03-26T10:25:45.000000Z",
+      "updated_at": "2020-03-26T10:25:45.000000Z"
+    },
+    {
+      "user_id": 9,
+      "first_name": "Erika McCullough",
+      "last_name": "Johanna Hackett",
+      "tasks": [],
+      "email": "welch.meggie@example.com",
+      "created_at": "2020-03-26T10:27:05.000000Z",
+      "updated_at": "2020-03-26T10:27:05.000000Z"
+    },
+    {
+      "user_id": 10,
+      "first_name": "aaa",
+      "last_name": "bbb",
+      "tasks": [],
+      "email": "aasdsaa@gmail.com",
+      "created_at": "2020-03-26T10:30:51.000000Z",
+      "updated_at": "2020-03-26T10:30:51.000000Z"
+    },
+    {
+      "user_id": 11,
+      "first_name": "aaa",
+      "last_name": "bbb",
+      "tasks": [],
+      "email": "aasdsadfgfa@gmail.com",
+      "created_at": "2020-03-26T10:34:39.000000Z",
+      "updated_at": "2020-03-26T10:34:39.000000Z"
+    },
+    {
+      "user_id": 12,
+      "first_name": "aaa",
+      "last_name": "bbb",
+      "tasks": [],
+      "email": "aasdsadfgfdfgfa@gmail.com",
+      "created_at": "2020-03-26T10:35:07.000000Z",
+      "updated_at": "2020-03-26T10:35:07.000000Z"
+    }
+  ]
+}

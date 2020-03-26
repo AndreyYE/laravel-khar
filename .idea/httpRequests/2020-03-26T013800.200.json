@@ -1,0 +1,92 @@
+[
+  {
+    "user_id": 2,
+    "first_name": "first",
+    "last_name": "last",
+    "email": "aaa@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2020-03-26T07:52:00.000000Z",
+    "updated_at": "2020-03-26T07:52:09.000000Z"
+  },
+  {
+    "user_id": 3,
+    "first_name": "aaaa",
+    "last_name": "bbbb",
+    "email": "sss@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2020-03-26T08:00:23.000000Z",
+    "updated_at": "2020-03-26T08:04:55.000000Z"
+  },
+  {
+    "user_id": 5,
+    "first_name": "Fiona Hahn",
+    "last_name": "Keith Leuschke",
+    "email": "golden.steuber@example.net",
+    "email_verified_at": "2020-03-26T10:14:13.000000Z",
+    "created_at": "2020-03-26T10:14:13.000000Z",
+    "updated_at": "2020-03-26T10:14:13.000000Z"
+  },
+  {
+    "user_id": 6,
+    "first_name": "Cheyenne Schamberger V",
+    "last_name": "Mr. Dusty McCullough I",
+    "email": "bosco.deangelo@example.net",
+    "email_verified_at": "2020-03-26T10:14:24.000000Z",
+    "created_at": "2020-03-26T10:14:24.000000Z",
+    "updated_at": "2020-03-26T10:14:24.000000Z"
+  },
+  {
+    "user_id": 7,
+    "first_name": "Peggie Krajcik",
+    "last_name": "Beverly Cruickshank",
+    "email": "vherman@example.org",
+    "email_verified_at": "2020-03-26T10:25:00.000000Z",
+    "created_at": "2020-03-26T10:25:00.000000Z",
+    "updated_at": "2020-03-26T10:25:00.000000Z"
+  },
+  {
+    "user_id": 8,
+    "first_name": "Marianna Auer",
+    "last_name": "Prof. Muhammad Marks",
+    "email": "armani.sawayn@example.com",
+    "email_verified_at": "2020-03-26T10:25:44.000000Z",
+    "created_at": "2020-03-26T10:25:45.000000Z",
+    "updated_at": "2020-03-26T10:25:45.000000Z"
+  },
+  {
+    "user_id": 9,
+    "first_name": "Erika McCullough",
+    "last_name": "Johanna Hackett",
+    "email": "welch.meggie@example.com",
+    "email_verified_at": "2020-03-26T10:27:04.000000Z",
+    "created_at": "2020-03-26T10:27:05.000000Z",
+    "updated_at": "2020-03-26T10:27:05.000000Z"
+  },
+  {
+    "user_id": 10,
+    "first_name": "aaa",
+    "last_name": "bbb",
+    "email": "aasdsaa@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2020-03-26T10:30:51.000000Z",
+    "updated_at": "2020-03-26T10:30:51.000000Z"
+  },
+  {
+    "user_id": 11,
+    "first_name": "aaa",
+    "last_name": "bbb",
+    "email": "aasdsadfgfa@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2020-03-26T10:34:39.000000Z",
+    "updated_at": "2020-03-26T10:34:39.000000Z"
+  },
+  {
+    "user_id": 12,
+    "first_name": "aaa",
+    "last_name": "bbb",
+    "email": "aasdsadfgfdfgfa@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2020-03-26T10:35:07.000000Z",
+    "updated_at": "2020-03-26T10:35:07.000000Z"
+  }
+]

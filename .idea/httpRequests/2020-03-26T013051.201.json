@@ -1,0 +1,11 @@
+{
+  "data": {
+    "user_id": null,
+    "first_name": "aaa",
+    "last_name": "bbb",
+    "tasks": [],
+    "email": "aasdsaa@gmail.com",
+    "created_at": "2020-03-26T10:30:51.000000Z",
+    "updated_at": "2020-03-26T10:30:51.000000Z"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "error": "SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`khar`.`tasks`, CONSTRAINT `tasks_status_id_foreign` FOREIGN KEY (`status_id`) REFERENCES `statuses` (`id`)) (SQL: update `tasks` set `status_id` = 3, `tasks`.`updated_at` = 2020-03-26 10:53:27 where `id` = 5)"
+}

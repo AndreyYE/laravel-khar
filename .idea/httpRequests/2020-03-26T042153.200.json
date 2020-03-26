@@ -1,0 +1,3 @@
+{
+  "error": "SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'status_id' cannot be null (SQL: insert into `tasks` (`title`, `description`, `user`, `status_id`, `updated_at`, `created_at`) values (aaa, desc, 5, ?, 2020-03-26 13:21:53, 2020-03-26 13:21:53))"
+}

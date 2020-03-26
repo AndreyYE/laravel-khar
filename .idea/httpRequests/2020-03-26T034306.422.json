@@ -1,0 +1,8 @@
+{
+  "message": "The given data was invalid.",
+  "errors": {
+    "email": [
+      "email is already taken"
+    ]
+  }
+}
