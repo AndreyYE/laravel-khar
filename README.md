@@ -23,10 +23,10 @@ DELETE /api/tasks/{tasks_id} - Удаление задачи
 
 GET /api/tasks/{tasks_id} - Получение задачи
 
-GET /api/tasks?status_id={status_id}&order={order} - Получение списка задач. Можно отфильтровать по статут добавит {status_id}, и отсортировать по id передав {order} - desc или asc
+GET /api/tasks?status_id={status_id}&order={order} - Получение списка задач. Можно отфильтровать по статусу добавив {status_id}, и отсортировать по id передав {order} - desc или asc
 
 
 Написаны Seeders.
 Написаны Feature тесты для контроллера
 
-Псоле того как вы запустили миграции запустите php artisan db:seed чтобы добавить statuses
+После того как вы запустили миграции запустите php artisan db:seed чтобы добавить statuses
